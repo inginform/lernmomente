@@ -1,0 +1,7 @@
+## Einige Dateien sollen nicht mit ins Git-Repository
+
+# Mac OS X spezifisches
+*.DS_Store
+
+# Wir brauchen keine Binaries im Repository
+*.exe
