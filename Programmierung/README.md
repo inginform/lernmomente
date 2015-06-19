@@ -23,4 +23,4 @@ Dieser Compiler liest deinen Quellcode und versucht daraus eine für den Compute
 
 **Lernquiz:** Heute gibt es kein Quiz, weil es der erste Lernmoment ist. Im nächsten Lernmoment wird es an dieser Stelle Fragen zum Thema Programmierung geben. Bereite dich also gut vor!
 
-**Weitere Informationen:** Link auf HelloWorld Quellcode in GitHub.
+**Weitere Informationen:** Beispiel für einen einfachen [Quellcode in der Programmiersprache C#](https://github.com/inginform/lernmomente/blob/master/Programmierung/HalloWelt.cs). Die dazugehörige Aufgabe wäre: "Zeige den Satz 'Beispiel für Quellcode' auf dem Bildschirm an."
