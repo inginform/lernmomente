@@ -1,21 +1,18 @@
 /// <summary>
-/// Einfacher C#-Quellcode um zuzeigen wie das offizielle 
-/// <see href="https://registry.hub.docker.com/u/library/mono/">Mono Docker Image</see>
-/// verwendet werden kann um C# Anwendungen zu erstellen und auszuführen.
+/// Quellcode in der Programmiersprache C# welches den Satz "Beispiel für Quellcode"
+/// in einem Kommandozeilenfenster ausgibt.  
 /// </summary>
 /// <remarks>
-/// Eine ausführliche Beschreibung zu diesem Beispiel kann in 
-/// <see href="">diesem Artikel</see> gefunden werden.
+/// Dieses Beispiel ist Teil des
+/// <see href="">Ing.InForm Lernmoments - Programmierung</see>.
 /// </remarks>
 
-using System; // Brauchen wir für die Verwendung von Console.WriteLine
+using System; // Verwendung einer Bibliothek. Dies wird in einem folgenden Lernmoment erklärt.
 
-class HalloDocker
+class HalloWelt
 {
 	static void Main(string[] args)
 	{
-		// Du kannst einfach die Ausgabe dieses Programms verändern.
-		// Dazu ändere den Text zwischen den Anführungsstrichen in der folgenden Zeile:
-		Console.WriteLine("ing.inform sagt Hallo aus einem Docker Container!");
+		Console.WriteLine("Beispiel für Quellcode");
 	}
 }
