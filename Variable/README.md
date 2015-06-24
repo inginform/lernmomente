@@ -1,4 +1,4 @@
-#Lernmoment - Variablen, von abstrakten Behältern und guten Namen
+#Lernmoment - Variablen, wie du sie deklarierst und verwendest
 Heute geht es um Variablen. Diese sind ein elementares Konzept in der Programmierung. Obwohl sich die Syntax für die Definition und Verwendung einer Variablen in den Programmiersprachen unterscheidet, ist das dahinter stehende Konzept doch gleich (zumindest in den für dich relevanten Programmiersprachen). Es geht darum Werte zur späteren Verwendung zu speichern.
 
 Der erste Schritt ist die Deklaration einer Variablen. Das sieht in den Programmiersprachen C, C++, C# und auch Java zum Beispiel so aus:
