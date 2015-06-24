@@ -44,8 +44,10 @@ Es gilt also, dass alle Variablen die rechts vom Zuweisungsoperator stehen nur a
 
 **Lernquiz:** Hier ein paar Fragen zum "Lernmoment - Eingebettete Systeme":
 
-- 
+- Was ist ein Eingebettetes System?
+- Welche Gegenstände aus deinem alltäglichen Leben haben ein Eingebettetes System?
+- Welche Anforderungen werden häufig an Eingebettete Systeme gestellt?
 
-Sofern du die Fragen nicht beantworten kannst, solltest du nochmal beim gestrigen Lernmoment nachschauen.
+Sofern du die Fragen nicht beantworten kannst, solltest du nochmal beim vorherigen Lernmoment nachschauen.
 
 **Weitere Informationen:** Eine sehr detailierte Erklärung des Konzepts der Variable mit Beispielen in der Programmiersprache C gibt es bei [wikibooks](https://de.wikibooks.org/wiki/C-Programmierung:_Variablen_und_Konstanten). Auch wenn du eine andere Programmiersprache lernst, kann dir die Einführung dort beim verstehen helfen.
