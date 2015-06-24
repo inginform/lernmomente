@@ -7,11 +7,11 @@ Der erste Schritt ist die Deklaration einer Variablen. Das sieht in den Programm
 int fuellstandGrosseRegentonneInLitern;
 ```
 
-Das erste Schlüsselwort (`int`) gibt einen Datentypen an. Damit sagst du dem Computer welche Werte für die Variable zulässig sind und wie die oberen und unteren Wertegrenzen sind. Ausserdem weiß der Computer so, wieviel Speicher er für diese Variable reservieren muss. Der Datentyp `int` erlaubt die Verwendung von positiven und negativen Ganzzahlen. In einer 16Bit-Umgebung, also beispielsweise einem eingebetteten System mit einem 16Bit-Prozessor, ist der zulässige Wertebereich somit von -32.768 bis 32.767.
+Das erste Schlüsselwort (`int`) gibt einen Datentypen an. Damit sagst du dem Computer welche Werte für die Variable zulässig sind und wie die oberen und unteren Wertegrenzen sind. Ausserdem weiß der Computer so, wieviel Speicher er für diese Variable reservieren muss.
 
 Das zweite Wort (`fuellstandGrosseRegentonneInLitern`) ist der Name der Variablen. Je nach Programmiersprache sind unterschiedliche Symbole in der Deklaration eines Variablennamens zulässig. In den hier betrachteten Programmiersprachen ist es immer möglich eine beliebige Kombination von großen und kleinen Buchstaben zuverwenden. Dabei sind die meisten Sonderzeichen (wie zum Beispiel Umlaute) nicht zulässig.
 
-Der Name einer Variablen ist nur für dich wichtig. Er soll dir helfen einen gut lesbaren Quellcode zu schreiben. Hast du den Namen einmal deklariert, musst du ihn allerdings auch so benutzen. Vertipptst du dich an einer Stelle, dann weiß der Compiler nicht was er machen soll.
+Der Name einer Variablen ist nur für dich wichtig. Er soll dir helfen einen gut lesbaren Quellcode zu schreiben. Hast du den Namen einmal deklariert, musst du ihn so benutzen. Vertipptst du dich an einer Stelle, dann sagt der Compiler dir, dass er eine solche Variable nicht kennt.
 
 Nachdem du eine Variable deklariert hast, kannst du sie verwenden. Das bedeutet, dass du entweder ihren Wert veränderst, oder du ihren aktuellen Wert verwendest. Hier ein Beispiel:
 
