@@ -1,5 +1,5 @@
 #Lernmoment - Funktionen definieren, sag was die Funktion tun soll
-Du verwendest Funktionen in C um deinen Quellcode zu strukturieren. Dein Ziel sollte es sein, dass dein Quellcode gut lesbar ist, dass er auch von anderen leicht erweitert und geändert werden kann und natürlich, dass du möglichst viele Teile wiederverwenden kannst.
+Du verwendest Funktionen in C um deinen Quellcode zu strukturieren. Dein Ziel sollte es sein, dass dein Quellcode gut lesbar ist, dass er auch von anderen leicht erweitert und geändert werden kann und, dass du möglichst viele Teile wiederverwenden kannst.
 
 Ich habe heute folgendes Programm:
 
@@ -52,10 +52,12 @@ Details zu den Themen Rückgabewert, Parameterliste und `return` Anweisung bekom
 - Nach dem Funktionskopf folgt der Funktionsrumpf. Dieser enthält eine Liste von Anweisungen in geschweiften Klammern.
 - Die letzte Anweisung in einem Funktionsrumpf muss immer das `return` sein.
 
-**Lernquiz:** Hier ein paar Fragen zum "Lernmoment - ???":
+**Lernquiz:** Verwende folgende Fragen um das gelernte von heute zu festigen:
 
-- 
+- Warum werden Funktionen verwendet?
+- Was ist das letzte Zeichen in einem Funktionskopf?
+- Wie heißt das Ding mit den geschweiften Klammern?
 
 Sofern du die Fragen nicht beantworten kannst, solltest du nochmal beim vorherigen Lernmoment nachschauen.
 
-**Weitere Informationen:** Das komplette Programm in der Version mit und ohne Funktion findest du wie immer im Verzeichnis der [Ing.InForm Lernmomente](https://github.com/inginform/lernmomente/tree/master/???). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen.
+**Weitere Informationen:** Das komplette Programm in der Version mit und ohne Funktion findest du wie immer im Verzeichnis der [Ing.InForm Lernmomente](https://github.com/inginform/lernmomente/tree/master/C_FunktionenDefinieren). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen.
