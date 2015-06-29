@@ -5,3 +5,7 @@
 
 # Wir brauchen keine Binaries im Repository
 *.exe
+*.out
+
+# HTML können wir aus dem Markdown erzeugen, also brauchen wir es nicht speichern
+*.html
