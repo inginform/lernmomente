@@ -1,4 +1,5 @@
 #Lernmoment in C - Funktionen verwenden, oder wie du die Früchte erntest
+
 Bisher haben wir angeschaut warum eine Funktion verwendet wird und vor allem wie du sie erstellen kannst. Heute wollen wir die Früchte ernten und die Funktion verwenden.
 
 Wie genau ein Funktionsaufruf aussieht ergibt sich aus dem Funktionskopf. Schauen wir uns mal unser bekanntes Beispiel an:
@@ -53,4 +54,4 @@ Der oben gezeigte Quellcode ist allerdings noch nicht ganz korrekt. Denn damit d
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text voher gelesen zu haben.
 
-**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](tbd). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen. Auch habe ich noch ein paar Varianten des Funktionsaufrufs hinzugefügt. Denn die hier besprochene ist nicht die einzige Möglichkeit. Jedoch sicher die beste ;-).
+**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_FunktionenVerwenden). Den Quellcode kannst du so in einer Entwicklungsumgebung ausprobieren. Ausserdem enthält er zusätzliche Informationen. Auch habe ich noch eine Variante des Funktionsaufrufs hinzugefügt. Denn die hier besprochene ist nicht die einzige Möglichkeit. Jedoch sicher die beste ;-).
