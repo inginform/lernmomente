@@ -47,6 +47,6 @@ Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherige
 
 **Weitere Informationen:** 
 
-- Der [Quellcode](tbd) zum heutigen Lernmoment besteht aus mehreren Dateien. So kannst du einfach ausprobieren wie du diese Dateien mit gcc übersetzen kannst. 
-- Eine gute Einführung in GNU Make habe ich [hier](http://eitidaten.fh-pforzheim.de/daten/labore/if3lt/literatur/make.pdf) gefunden. 
-
+- Der [Quellcode](https://github.com/inginform/lernmomente/tree/master/C_MehrereDateienKompilieren) zum heutigen Lernmoment besteht aus mehreren Dateien. So kannst du einfach ausprobieren wie du diese Dateien mit gcc übersetzen kannst. 
+- Eine gute Einführung in GNU Make habe ich [hier](http://eitidaten.fh-pforzheim.de/daten/labore/if3lt/literatur/make.pdf) gefunden.
+- Wenn du mehr über den gcc erfahren willst, dann gibt es natürlich die entsprechende [Homepage](https://gcc.gnu.org), aber es gibt auch eine ganz gute [Übersicht in Deutsch](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/Kap01-004.htm). 
