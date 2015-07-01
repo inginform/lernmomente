@@ -16,7 +16,7 @@ Wenn du selber Header schreibst, dann brauchst du auch die Schreibweise mit Anf�
 
 Der Unterschied zwischen diesen beiden Varianten liegt darin wo der Präprozessor nach der Datei sucht. Die Header der C-Standardbibliothek kann der Compiler über den Includepfad finden. Dieser wird während der Installation des Präprozessors automatisch definiert.
 
-Wenn du den gcc verwendest, dann kannst du dir den aktuellen Includepfad und einige weitere Informationen mit diesem Befehl `echo | gcc -v -x c -E -` ausgeben lassen. In Visual Studio sind die Angaben je nach Version in der Oberfläche und Umgebungsvariablen verstreut [1](https://msdn.microsoft.com/de-de/library/36k2cdd4.aspx)\.
+Wenn du den gcc verwendest, dann kannst du dir den aktuellen Includepfad und einige weitere Informationen mit diesem Befehl `echo | gcc -v -x c -E -` ausgeben lassen. In Visual Studio sind die Angaben je nach Version in der Oberfläche und Umgebungsvariablen verstreut [(siehe MSDN)](https://msdn.microsoft.com/de-de/library/36k2cdd4.aspx)\.
 
 Der Unterschied zwischen den beiden Varianten ist, dass nur der Includepfad durchsucht wird, wenn du spitze Klammern verwendest. Wenn du Anführungszeichen nimmst, dann wird vor dem Includepfad noch das lokale Verzeichnis durchsucht. Daher wird der letztere Ansatz auch für selbst geschriebene Header verwendet.
 
@@ -44,4 +44,4 @@ Dabei gilt jedoch zu berücksichtigen, dass es eine relative Pfadangabe ist, die
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](tbd).
+**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_HeaderIncludieren). Anweisungen wie du ihn übersetzt sind ebenfalls im Quellcode enthalten.
