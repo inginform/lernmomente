@@ -54,4 +54,4 @@ Es gibt noch eine Menge weiterer Formatierungsoptionen. Zum Beispiel kannst du m
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_PrintfZahlen). Anweisungen wie du ihn übersetzt sind ebenfalls im Quellcode enthalten.
+**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_PrintfZahlen). Eine umfangreichere Erklärung gibt es bei [wikibooks](https://de.wikibooks.org/wiki/C-Programmierung:_Einfache_Ein-_und_Ausgabe#printf).
