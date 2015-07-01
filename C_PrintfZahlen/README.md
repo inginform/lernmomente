@@ -27,13 +27,13 @@ printf("Die Variable hat den Wert: %i", dieAntwort);
 
 Wichtig ist, dass die Umwandlungsangaben den passenden Typ angeben. Wenn du eine Gleitkommazahl hast (also `float`) und verwendest `%i` im printf, dann wird das Resultat nicht das sein welches du erwartest. Probier es doch einfach mal mit dem [Beispielprogramm](https://github.com/inginform/lernmomente/tree/master/C_PrintfZahlen) aus. Die wichtigsten Umwandlungsangaben sind:
 
-|Umwandlungsangabe| Datentyp          |
-|-----------------|:------------------|
-| %i              | int               |
-| %d              | int               |
-| %f              | float oder double |
-| %c              | char              |
-| %u              | unsigned int      |
+| Umwandlungsangabe | Datentyp          |
+|-------------------|:------------------|
+| %i                | int               |
+| %d                | int               |
+| %f                | float oder double |
+| %c                | char              |
+| %u                | unsigned int      |
 
 Grundsätzlich aufpassen solltest du bei der Länge des Textes. Je nach Betriebssystem kann es passieren, dass die maximale Länge des resultierenden Textes, also mit den Zahlen, begrenzt ist. Insbesondere bei Mikrocontroller kann dies passieren, wenn printf dort überhaupt untertstützt wird. Es soll Unix-Varianten geben, die maximal 509 Zeichen zu lassen. Dies ist üblicherweise kein Problem, aber du solltest es wissen.
 
