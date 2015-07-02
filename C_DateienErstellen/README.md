@@ -1,4 +1,4 @@
-#Lernmoment in C - Dateien erstellen, wie du eine Datei öffnest
+#Lernmoment in C - Dateien erstellen, lass die Daten strömen
 
 Ähnlich wie bei printf, können Dateien dir in sehr vielen Bereichen helfen. In Eingebetteten Systemen hast du vielleicht keine andere Möglichkeit Daten auszugeben. Auch auf dem PC kann es hilfreicher sein ein Log zu erstellen, statt alles auf die Konsole auszugeben. Und so weiter.
 
