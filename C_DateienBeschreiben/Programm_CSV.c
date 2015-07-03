@@ -6,7 +6,7 @@ int main (void)
   FILE *datenstrom;
   int antwortAufAlleFragen = 42;
 
-  printf("\nBeispielprogramm von Lernmoment.de. Zeigt wie Dateien geöffnet und beschrieben werden.\n");
+  printf("\nBeispielprogramm von Lernmoment.de. Zeigt wie CSV-Dateien beschrieben werden.\n");
 
   datenstrom = fopen("lernmoment.csv", "w");
 

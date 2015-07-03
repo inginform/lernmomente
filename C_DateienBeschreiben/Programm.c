@@ -6,7 +6,7 @@ int main (void)
   FILE *datenstrom;
   int anzahlZeichenGeschrieben = 0;
 
-  printf("\nBeispielprogramm von Lernmoment.de. Zeigt wie Dateien geöffnet und beschrieben werden.\n");
+  printf("\nBeispielprogramm von Lernmoment.de. Zeigt wie Dateien beschrieben werden.\n");
 
   // Öffnen der Datei im Schreibmodus.
   // Bei "w" wird der Inhalt der Datei gelöscht, wenn sie existiert, oder sie wird erstellt, 
