@@ -46,4 +46,4 @@ Jan
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_DateienBeschreiben). Eine umfangreichere Erklärung gibt es bei [wikibooks](https://de.wikibooks.org/wiki/C-Programmierung:_Dateien). Wenn du wirklich alle Details brauchst, dann schau doch mal [hier](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/016_c_ein_ausgabe_funktionen_005.htm#mj47f082541eb4df9dbdcefdbc2775feae).
+**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_DateienBeschreiben). Eine umfangreichere Erklärung gibt es bei [wikibooks](https://de.wikibooks.org/wiki/C-Programmierung:_Dateien). Wenn du wirklich alle Details brauchst, dann schau doch mal [hier](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/016_c_ein_ausgabe_funktionen_009.htm#mje5a9730700783816c72f0f4556b59d10).
