@@ -1,3 +1,10 @@
+/**
+ *  Dieses Programm kannst du zum Beispiel mit 'gcc Success_Failure_Beispiel.c' kompilieren.
+ *
+ *  Wenn du gcc mit einer zusätzlichen Option aufrufst: 'gcc -Wall Success_Failure_Beispiel.c',
+ *  gibt es hier keine Warnung, weil alle Wege aus dem Programm einen Wert zurück geben.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
