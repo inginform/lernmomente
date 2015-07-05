@@ -47,4 +47,7 @@ Jan
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-**Weitere Informationen:** Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_ProgrammBeenden). 
+**Weitere Informationen:** 
+
+-	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_ProgrammBeenden). 
+-	Einen kleinen Hinweis wie du den Rückgabewert in deinem Betriesbsystem benutzt gibt es [hier](https://de.wikibooks.org/wiki/C-Programmierung:_Funktionen#exit.28.29)
