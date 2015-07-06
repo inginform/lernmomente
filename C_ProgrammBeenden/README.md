@@ -23,7 +23,7 @@ Was aber besagt das denn nun? Die Zahl die durch die `return` Anweisung in `main
 
 Es gibt aber auch Fälle, in denen es durchaus relevant ist ob in einem Programm ein Fehler aufgetreten ist, oder nicht. Wenn zum Beispiel dein Programm zusammen mit anderen Programmen eine größere Aufgaben erledigt. Dann kann bei einem Fehler von einem der Programme entschieden werden, ob die ganze Bearbeitung abgebrochen werden soll.
 
-Somit sollte dir nun bewusst sein, dass wenn du nichts machst (siehe Beispiel oben), dann sagt dein Programm immer, dass es erfolgreich beendet wurde. Zum Abschluss möchte ich dir noch eine weitere Alternative zeigen. In der `<stdlib.h>` sind die Konstanten `EXIT_SUCCESS` und `EXIT_FAILURE` definiert. 
+Somit sollte dir nun bewusst sein, dass wenn du nichts machst (siehe Beispiel oben), dann sagt dein Programm immer, dass es erfolgreich beendet wurde. Zum Abschluss möchte ich dir noch eine weitere Alternative zeigen. In der `<stdlib.h>` sind die Konstanten `EXIT_SUCCESS` und `EXIT_FAILURE` definiert.
 
 Es gibt verschiedene Gründe warum diese Konstanten verwendet werden sollten, oder eben auch nicht. Aus meiner Sicht sind sie allerdings gerade für Anfänger gut, weil du so ganz explizit im Quellcode sehen kannst wie dein Programm beendet wird.
 
@@ -47,7 +47,7 @@ Jan
 
 Am besten du schaust dir morgen und dann nochmal in ein paar Tagen die vorherigen Fragen an und beantwortest sie ohne den Text vorher gelesen zu haben.
 
-**Weitere Informationen:** 
+**Weitere Informationen:**
 
--	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_ProgrammBeenden). 
+-	Den kompletten Quellcode zum heutigen Lernmoment findest du [hier](https://github.com/inginform/lernmomente/tree/master/C_ProgrammBeenden).
 -	Einen kleinen Hinweis wie du den Rückgabewert in deinem Betriesbsystem benutzt gibt es [hier](https://de.wikibooks.org/wiki/C-Programmierung:_Funktionen#exit.28.29)
